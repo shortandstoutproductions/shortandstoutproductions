@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shortandstoutproductions
 - 👀 I’m interested in learning to code and become a front end development!
-- 🌱 I’m currently learning HTML, CSS and Javascript!
+- 🌱 Knowledgable in HTML, CSS and Javascript!
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me by email @ shortandstoutproductions@gmail.com
 
